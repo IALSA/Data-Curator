@@ -48,22 +48,22 @@ To facilitate replication across studies, the IALSA research network launched "*
 [satsa-repo-public]:https://github.com/IALSA/SATSA-public
 
 
-[elsa-team-write]:
-[elsa-team-read]:
-[hrs-team-write]:
-[hrs-team-read]:
-[lasa-team-write]:
-[lasa-team-read]:
-[map-team-write]:
-[map-team-read]:
-[midus-team-write]:
-[midus-team-read]:
-[obas-team-write]:
-[obas-team-read]:
-[octo-team-write]:
-[octo-team-read]:
-[satsa-team-write]:
-[satsa-team-read]:
+[elsa-team-write]:https://github.com/IALSA
+[elsa-team-read]:https://github.com/IALSA
+[hrs-team-write]:https://github.com/IALSA
+[hrs-team-read]:https://github.com/IALSA
+[lasa-team-write]:https://github.com/IALSA
+[lasa-team-read]:https://github.com/IALSA
+[map-team-write]:https://github.com/IALSA
+[map-team-read]:https://github.com/IALSA
+[midus-team-write]:https://github.com/IALSA
+[midus-team-read]:https://github.com/IALSA
+[obas-team-write]:https://github.com/IALSA
+[obas-team-read]:https://github.com/IALSA
+[octo-team-write]:https://github.com/IALSA
+[octo-team-read]:https://github.com/IALSA
+[satsa-team-write]:https://github.com/IALSA
+[satsa-team-read]:https://github.com/IALSA
 
 
  
