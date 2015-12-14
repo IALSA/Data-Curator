@@ -1,4 +1,4 @@
-IALSA-Data-Curator project
+IALSA's Data Curator project
 ===
 
 To facilitate replication across studies, the IALSA research network launched **Data Curator** project, which organizes the preparation of data sets for analysis from selected longitudinal studies of the network. 
