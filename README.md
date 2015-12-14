@@ -21,14 +21,14 @@ To facilitate replication across studies, the IALSA research network launched "*
  
 |Study / Repo  |Teams  |Notes  |
 |---|---|---|
-|[ELSA][elsa-repo-private], [public][elsa-repo-public]|[ELSA][elsa-team-write], [public][elsa-team-read]  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+|[ELSA][elsa-repo-private], [public][elsa-repo-public]|[write][elsa-team-write], [read][elsa-team-read]  |  |
+|[HRS][hrs-repo-private], [public][hrs-repo-public]|[write][hrs-team-write], [read][hrs-team-read]  |  |
+|[LASA][lasa-repo-private], [public][lasa-repo-public]|[write][lasa-team-write], [read][lasa-team-read]  |  |
+|[MAP][map-repo-private], [public][map-repo-public]|[write][map-team-write], [read][map-team-read]  |  |
+|[MIDUS][midus-repo-private], [public][midus-repo-public]|[write][midus-team-write], [read][midus-team-read]  |  |
+|[OBAS][obas-repo-private], [public][obas-repo-public]|[write][obas-team-write], [read][obas-team-read]  |  |
+|[OCTO-Twin][octo-repo-private], [public][octo-repo-public]|[write][octo-team-write], [read][octo-team-read]  |  |
+|[SATSA][satsa-repo-private], [public][satsa-repo-public]|[write][satsa-team-write], [read][satsa-team-read]  |  |
  
 [elsa-repo-private]:https://github.com/IALSA/ELSA
 [elsa-repo-public]:https://github.com/IALSA/ELSA-public
