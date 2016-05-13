@@ -1,13 +1,6 @@
 IALSA's Data Curator project
 ===
 
-To facilitate replication across studies, the IALSA research network launched **Data Curator** project, which organizes the preparation of data sets for analysis from selected longitudinal studies of the network. 
-
-**ARCHITECHTURE** Each longitudinal study is represented with two repositories: public and private. A private repository is visible only to the specific team composed of the affiliates of the IALSA network who have verified github accounts. A public version of a private repository for the corresponding study removes sensitive data and organizes the currently available reports for the presentation to the general public of researchers. 
-
-**ACCESS LEVELS** Permissions to private repositories are handled through [IALSA teams](https://github.com/orgs/IALSA/teams). The name of the team (e.g. "MAP-read", "MAP-write", "LASA-read") reflects both the study name and the access level. Teams with "read" in their names have read-only access, while "write" teams can push content to the repository. 
- 
- 
 |Study / Repo  |Teams  |Notes  |
 |---|---|---|
 |[ELSA][elsa-repo-private], [public][elsa-repo-public]|[write][elsa-team-write], [read][elsa-team-read]  |  |
@@ -21,6 +14,15 @@ To facilitate replication across studies, the IALSA research network launched **
  
  NOTE: * mark studies which are either groomed for analysis or in the process of grooming. 
  
+ 
+To facilitate replication across studies, the IALSA research network launched **Data Curator** project, which organizes the preparation of data sets for analysis from selected longitudinal studies of the network. 
+
+**ARCHITECHTURE** Each longitudinal study is represented with two repositories: public and private. A private repository is visible only to the specific team composed of the affiliates of the IALSA network who have verified github accounts. A public version of a private repository for the corresponding study removes sensitive data and organizes the currently available reports for the presentation to the general public of researchers. 
+
+**ACCESS LEVELS** Permissions to private repositories are handled through [IALSA teams](https://github.com/orgs/IALSA/teams). The name of the team (e.g. "MAP-read", "MAP-write", "LASA-read") reflects both the study name and the access level. Teams with "read" in their names have read-only access, while "write" teams can push content to the repository. 
+ 
+ 
+
 [elsa-repo-private]:https://github.com/IALSA/ELSA
 [elsa-repo-public]:https://github.com/IALSA/ELSA-public
 [hrs-repo-private]:https://github.com/IALSA/HRS
