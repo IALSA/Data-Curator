@@ -1,4 +1,4 @@
-IALSA's Data Curator project
+IALSA's Study Curator project
 ===
 
 |Study / Repo  |Teams  |Notes  |
